@@ -32,14 +32,14 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# JSON (JavaScript Object Notation) source file
+*.json linguist-detectable=true
+*.json linguist-documentation=false
+*.json linguist-language=JSON
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
 *.less linguist-language=Less
-# JSON (JavaScript Object Notation) source file
-*.json linguist-detectable=false
-*.json linguist-documentation=false
-*.json linguist-language=JSON
 # WebVTT subtitle file
 *.vtt linguist-detectable=true
 *.vtt linguist-documentation=false
@@ -52,7 +52,7 @@
 # Do not include, as it would become a dominant language that shouldn't be the language people refer this project to
 *.yml linguist-detectable=false
 *.yml linguist-documentation=false
-*.yml linguist-language=YAML
+*.yml linguist-language=YAM
 *.yaml linguist-detectable=false
 *.yaml linguist-documentation=false
 *.yaml linguist-language=YAML
@@ -164,7 +164,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Monday, October 31st at 3:10 pm PST)
 # Line count (including blank lines and compiler line): 171
 # End of script
